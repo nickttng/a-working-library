@@ -31,7 +31,7 @@ In the preface, Lostritto begins with an exercise to fuel an internal discourse:
 
 ### On a misunderstanding about computing
 
-> Computing is often conflated with the personal computing era ... [however] computing was used in literature as early as 1579, which reinforces the notion that the kind of processing, calculation, procedures, reckoning or reasoning that are normally associated with personal computers need not involve any machines (29) 
+> Computing is often conflated with the personal computing era ... [however] computing was used in literature as early as 1579, which reinforces the notion that the kind of processing, calculation, procedures, reckoning or reasoning that are normally associated with personal computers need *not* involve any machines (29) 
 
 ### On defining the use of algorithm in computational drawing
 
@@ -44,6 +44,6 @@ A scenario:
 - Additional input — Its appearance may be affected by its speed at which the mark is made
 - Additional input — The mark might be radial in nature (in terms of radii and angular length)
 - Additional input — The mark changed by thickness throughout or at certain moments
-- Additional input —The mark is governed by goals or patterns rather than reference points
+- Additional input — The mark is governed by goals or patterns rather than reference points
 
 ^ Leads to thinking, "What if the library of functions is the work?" (34)
