@@ -47,3 +47,21 @@ A scenario:
 - Additional input — The mark is governed by goals or patterns rather than reference points
 
 ^ Leads to thinking, "What if the library of functions is the work?" (34)
+
+## Chapter 2: Structures
+
+On the difference between a mark and a line (80)
+
+- Mark is literal, direct and unambiguous in its creation, and is not always registered as a line, no matter how bombastic, trail-like, curvy or straight it is
+- Line is what we read into marks, and can exist because of the tension between marks — when our mind connects the dots
+
+> Mentioning that a drawing can be read differently than the code opens the door to analogies with poetry and literature. If literature is used as an analogy, it can be theorized that computational drawing is like a writing a story story (more developed, longer, and immersive than how poetry is often treated) ... [it does] not need to come to a clear conclusion, and not every aspect of the story needs resolution or even explanation ... [keeping the same analogy] using drawing software is not drawing. One can produce a drawing with drawing software in the same way that when reading a choose your own adventure novel one is creating a story. (86)
+
+On four types of line taxonomy (80-115)
+
+1. **The existence taxonomy:** Lines are organized based on whether and how they correspond directly to things that exist materially
+2. **The temporal taxonomy:** Lines are distinguished based on their relationship to time, e.g. path lines can trace a record of time, or serve as a one-dimensional temporal space or snapshots of a moving particle
+3. **Geometry-material taxonomy:** Lines are categorized based on the relationship between geometry, which is understood to be the reader's mental construct of form or shape, and material, which is defined as the help by the substrate (canvas, paper, etc.), e.g. creating a correlation between geometry and matter
+4. **Behavior scope taxonomy:** Lines are organized on a spectrum relative to their local verses global behavior. Global, or compositional (are constructed systematically), behavior would be characterized by equations or logic that are defined outside of the line and imposed on the line while the local behavior (based on a vicinity or scope) is exhibited when the lines themselves are imbued with goals, rules and traits
+
+Q: Are lines automatic, autographic, automated, or autonomous?
