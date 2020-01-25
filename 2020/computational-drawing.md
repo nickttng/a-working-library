@@ -184,4 +184,4 @@ Possibly, what chasm that is dramatically narrowing: impersonal "make a tool for
 
 Be open to analysis, critique and discourse.
 
-Look forward ===???>>> a possible future that celebrates the code written by artists, architects, and designers that make us think (with its strangeness, quickness or capacity) rather than impress with something marketable to a wide audience. :crosses-fingers:
+Look forward => ??? a possible future ??? that celebrates the code written by artists, architects, and designers that make us think (with its strangeness, quickness or capacity) rather than impress with something marketable to a wide audience. :crosses-fingers:
