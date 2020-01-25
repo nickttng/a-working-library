@@ -1,4 +1,4 @@
-*Date read - XX 2020*
+*Date read - Jan 2020*
 
 -----
 
@@ -154,3 +154,34 @@ Behavior of ink can allow lines to call attention to themselves as material on p
 
 ^ Empson's ambiguity type five being applied to computational drawing and can serve as a basis for a theory of representation. Not a matter of multiple interpretations of definitions but rather it betrays a conflict in the author's mind. (Note to self: Read Empson's *‌Seven Types of Ambiguity* to getter understand this context) 
 
+## Chapter 5: Futures
+
+> Every year since 1978 the Post uses a list of paired terms, one is out—as in out of fashion—and the other is in [In/Out format]. Taken in the aggregate, these lists are more than a collection of passing trends, but a deep analysis of the direction and priorities of a nation ... positions macro economic trends along side matters of aesthetics and taste. The pairing is, of course, essential. *Much more interesting than just what's trendy now is what that is replacing, mitigating, or undermining* ... once relevant vs. what is now relevant = projecting that vector forward => taking the pulse of a culture also implicating predicts the future (277)
+
+### Still on Paper, Still Difficult, Slower, Longer
+
+What is the future of drawing? Addressing this is difficult because it doesn't look much different than its past = [similar] = "What is the future of voting" would address what might be possible quickly leads to an inquiry of what *should* be possible => Fixing the inherent limitations of drawing does not advance drawing, but rather it will advance and expand its duration, scale, indirection, and range of human engagement. 
+
+> Technology, specifically computational technology, will not alleviate the difficulty of depth, automate the production of drawing, or make the interfaces of drawing more convenient or seamless. In some cases, the seams will be greater, the difficulty more palpable, and the process more layered and less direct. In other cases, the different ways we draw will cause cultural, theoretical, and conceptual shifts (279)
+
+### Renewed Focus on Craft
+
+[Post-post-digital era] Becomes comfortable again [unlike post-digital era] with the notion  that novel techniques can open the door to new theories and ideas:
+- Post-digital projects avoided discourse about the digital at their peril => ironically, these projects can accidentally converge with one another = can describe a position, and unfortunately, an aesthetic
+- Post-post-digital projects brings acceptance of digital expertise, but will expect that such expertise bring humor, critique, messiness, and artistry to the digital landscape
+
+### Drawing will be disciplinary
+
+Hybridization of computation with drawing will give renewed energy to the prospect that drawing can be understood as its own discipline, especially as an autonomous discipline prompting a reflection on nature and methods of computing 
+
+### Making and Re-making Technology
+
+> Focus on how authors make technology for their practice rather than use technology made by others. Relatedly, those who write code will be celebrated not just for what they enable others to do, but will be expected to create themselves (282
+
+Today = We can shift to coding that bridges between scales, media, and formats
+
+Possibly, what chasm that is dramatically narrowing: impersonal "make a tool for others" <> the hyper-personal "my work is a reflection of myself"
+
+Be open to analysis, critique and discourse.
+
+Look forward ===???>>> a possible future that celebrates the code written by artists, architects, and designers that make us think (with its strangeness, quickness or capacity) rather than impress with something marketable to a wide audience. :crosses-fingers:
