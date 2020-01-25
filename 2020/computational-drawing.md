@@ -124,3 +124,33 @@ Difficulty that computation brings to drawing? **Depth** ...
 
 > If one can code depth cues, one can conceive of and discover new spatial relationships (220)
 
+### Objects
+
+[Content] is the process and its own world (nothing outside of that world need enter), which may become incredibly complex and detailed ... > despite the suggestion that automatic drawings may be subconscious, it is nearly impossible to draw without some kind of indirect imagination, interpretation, and judgement = these behaviors tend to emerge because we cannot help but read into the drawing as we draw [furthermore, once those behaviors emerge, so does content] (221)
+
+Create form => Drawing with respect to the form of existing or known objects = somewhat obvious approach to drawing come *after* depth cues and projection methods have been interrogated and critiqued (221)
+
+### Surfaces
+
+Like depth cues, surfaces can play a similar roles that are unique opportunities for computational drawing in that they sustain a threshold between legibility of objects and legibility of line in drawing (222):
+- Emerge from a drawing to form objects and define space
+- Structure the geometry computationally
+- Be the subject of a drawing if modeled before projection, e.g. drawing sources via projection is a pre-digital cartographic technique for the rendering landform
+
+### Two and a half dimension objects and pseudo-spaces
+
+> ... pixel has been explored as a component of a kind of model—the digital age. But in considering the nature of pixels as immaterial, we must confront a casual myth: **that a pixel-based image can become ad drawing when it is printed. One might ask, why not?** The result of the digital print is material. (223)
+
+### The Form of Ink
+
+Bleeding ink leads to ...
+- Each mark tends to be softened. The edges of the mark are not clearly defined, but tend to dissolve gradually. Lines drawn slower leave the pen in contact with the paper for longer, resulting in a more transfer of ink and thicker lines
+- Ink from one mark can bleed into another causing them to blend
+- Because the ink is initially wet, later marks can spread the ink left by earlier marks. The paper itself changes its nature as it interacts with the tip of the pen and the ink as well. Softer, thicker papers will have very subtle troughs left but the pressure of the pen ... many marks made over the same line can saturate the paper, weakening it
+
+Behavior of ink can allow lines to call attention to themselves as material on paper = [similar condition] = signing simultaneously involves the sound of words and the meaning of words
+
+> An ambiguity of the fifth type occurs when the author is discovering his idea in the act of writing, or not holding it all in his mind at once, so that, for instance, there is a simile which applies to nothing exactly, but lies half-way between two things when he author is moving from one to the other
+
+^ Empson's ambiguity type five being applied to computational drawing and can serve as a basis for a theory of representation. Not a matter of multiple interpretations of definitions but rather it betrays a conflict in the author's mind. (Note to self: Read Empson's *‌Seven Types of Ambiguity* to getter understand this context) 
+
