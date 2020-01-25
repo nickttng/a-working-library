@@ -18,4 +18,4 @@
 
 ## Machines Automate Imbalance
 
-## Acknoledgments
+## Acknowledgments
