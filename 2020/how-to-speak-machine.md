@@ -26,7 +26,7 @@ Computation + design = The latter makes the former relevant to business and, mor
 2. **Hard machines are visible; soft machine are invisible**
 	- "Is software visible? Yes and no. On the one hand, program code is what lies at the heart of software and you can read it, but that's like confusing the recipe for cake with the cake itself. *The software is what comes alive inside the machine* [emphasis mine] due to the program codes — it's the cake, not the recipe." (13)
 	- William Gibson's trippy description on *Cyberspace* (counted by Gibson in *Neuromancer* in 1984): "Cyberspace, a consensual hallucination, experienced daily by billions of legitimate operators in every nation, by children being taught mathematical concepts ... Unthinkable complexity. Lines of light ranged in the non space of the mind, clusters and constellations of data. Like city lights receding ..." (13-14)
-	- To speak machine, you need to "live" the world (invisible by nature) of the machine too (15). To make the "invisible" more understandable, Maeda leads next with when there are/were fully visible machinery of computation — human beings (also notes about many professional women who were unfairly made invisible)
+	- To speak machine, you need to "live" in the world (invisible by nature) of the machine too (15). To make the "invisible" more understandable, Maeda leads next with when there are/were fully visible machinery of computation — human beings (also notes about many professional women who were unfairly made invisible)
 3. Human computers are the original computing machines
 4. Recursion is the most elegant means to repeat oneself
 5. Loops are indestructible unless a programmer has made an error
