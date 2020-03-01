@@ -30,15 +30,21 @@ Computation + design = The latter makes the former relevant to business and, mor
 3. **Human computers are the original computing machines**
 	- The definition of computer throughout history: 1613 = Richard Braithwaite described "the best arithmetician that ever breathed" as "the truest computer of times" => 1895 *Century dictionary* = "One who computes; a reckoned; a calculator; specifically, one whose occupation is to make arithmetical calculations for mathematicians, astronomers, geodesists, etc." => 1900-50s = A person who worked with pencil and paper, e.g. Works Progress Administration started the Mathematical Tables Project, employing hundreds of unskilled Americans to hand-tabulate a variety of mathematical functions over a ten-year period [Note: Reminds me of *Three-Body Problem*'s simulation of soldiers computing / acting as bits (holding a flag up as 1 or down as 0); creating logics, killed by their king when malfunctioned] => Dr. Alan Turing and the Turing machine; human computers were comparatively slow, at times inconsistent and make mistakes that a digital computer would never make; The machine would be fed a state of conditions that would determine where the umbers on the tape would be written or rewritten based on what it could read—and in doing so calculations could be performed, which Turing envisioned a machine could tirelessly calculate => Built for the US Army, ENIAC (Electronic Numerical Integrator and Computer); first working computing machine to implement Turing's ideas. => Late 1950s = Dr. Grace Hopper invented the first "human readable" computer language, which made it easier for people to speak machine => 1960s = The craft of writing these programmed instructions was first referred to as "software engineering" by NASA scientist Margaret Hamilton
 	- "Computation is made by us, and we are now collectively responsible for its outcomes." (20)
-4. Recursion is the most elegant means to repeat oneself
+4. **Recursion is the most elegant means to repeat oneself**
 	- "Recursion" as a concept is an idea that you don't naturally come across in your daily life, because it doesn't fit how the physical world around us usually works. (21)
 	- Writing recursion into programs = As simple as defining an idea as directly related to the idea itself. Tree with a lot of subbranches created by simply using the same method you started with ... a tree branch is composed of tree branches (the part is defined but he part itself). Same as its root system—so nature paints with recursion quietly and obviously. (23)
 	- Russian matryoshka doll is a close physical metaphor — a doll that has a smaller but identical version of itself nested inside it, and on and on.
 	- "The central idea [of recursion] is to express the definition of something with a definition itself, which is a vaguely imaginable idea that doesn't have a home in the real world but is completely native in the palm of cyberspace." (25)
 	- LOL: "**Recursion** (*noun)*. If you still don't get it, see **recursion**." - Michael Corballis
-5. Loops are indestructible unless a programmer has made an error
+5. **Loops are indestructible unless a programmer has made an error**
+	- "Be prepared, however, for a future where computers can reach inside themselves to relentlessly remove the bugs we put inside them—removing any and all obstacles to make their powerful looping activities interminable. *Repeating themselves unerringly, forever.*" (31)
 
 ## Machines get Large
+1. **Embracing exponential thinking is unnatural at first**
+2. **Loops wrapped inside loops open new dimensions**
+3. **Be open to both directions of the powers of ten**
+4. **Losing touch with human scale can make you toxic**
+5. **Computers team up with each other way better than we do**
 
 ## Machines are Living
 
