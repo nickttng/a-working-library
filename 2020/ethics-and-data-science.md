@@ -96,7 +96,7 @@ Users lose trust because ...
 
 > The slogan goes, “Move fast and break things.” But what if society is broken?
 
-Five frameworks when building data products:
+### Five frameworks when building data products:
 1. **Consent**
 	- **Ideally**: Trust begins on an agreement between both parties (In this case, between the people who are providing data and the people who are using it) -> Agreement starts with obtaining consent to collect and use data
 	- **Hostile pattern**: "Unfortunately, the agreements between a service’s users (people whose data is collected) and the service itself (which uses the data in many ways) are binary (meaning that you either accept or decline) and lack clarity. In business, when contracts are being negotiated between two parties, there are multiple iterations (redlines) before the contract is settled. But when a user is agreeing to a contract with a data service, they either accept the terms or they don’t get access. It’s nonnegotiable."
@@ -107,6 +107,22 @@ Five frameworks when building data products:
 		- This isn’t to say that such usage [of tweets being collected for research or for sale] is unethical; but as Casey Fiesler points out, the need isn’t just to get consent, but to inform users what they’re consenting to. That’s clarity.
 		- Unfortunately, the process of consent is often used to obfuscate the details and implications of what users may be agreeing to. And once data has escaped, there is no recourse. You can’t take it back. Even if an organization is willing to delete the data, it’s very difficult to prove that it has been deleted.
 	- **In practice**: Work to develop models that help users to understand the implications of their choices.
-3. Consistency
-4. Control (and transparency)
-5. Consequences (and harm)
+3. **Consistency and trust**
+	- Trust requires consistency over time. You can’t trust someone who is unpredictable [e.g. Facebook]... Restoring trust requires a prolonged period of consistent behavior. Consistency, and therefore trust, can be broken either explicitly or implicitly; intentionally or unintentionally
+4. **Control (and transparency)**
+	- Once you have given your data to a service, you must be able to understand what is happening to your data. 
+		- Can you control how the service uses your data?  
+		- What happens if you change your mind about the data you’ve provided?
+	- Often, users have no effective control over how their data is used — 1) Given all-or-nothing choices; or 2) Controlling access is overwhelming or confusing
+5. **Consequences (and harm)**
+	- All too often, unknown unknowns are unknown because we don’t want to know.
+		- **Example of technology + policies:** Technology rapidly outpaces [laws/regulations] being adopted by society. The Obama administration creates tech-related roles, e.g. technology officer and chief data scientists (40+) across the federal government to ensure that the regulatory process fosters innovation while ensuring the question of potential of harm is asked regularly and often
+		- **Example of exposed Strava data:** In 2018, Strava opened up their data to allow users to discover new places to run/bike, which exposed members of the US military who were using GPS-enabled wearables and their activities / locations of bases / patrol routes. 
+		- Ask ourselves: By [doing this], how might we trigger [unintended / unforeseen / harmful consequences]
+
+### Implementing the Five Cs
+
+In addition to designers (assumed responsibility), it’s the responsibility of the entire team. The five Cs need to be part of every organization’s culture.
+- The data scientists need to approach the problem asking “what if” scenarios that get to all of the five C’s. 
+- Also true for the product managers, business leaders, sales, marketing, and also executives. 
+- Product and design reviews should go over the five Cs regularly. They should consider developing a checklist before releasing a product to the public. All too often, we think of data products as minimal viable products (MVPs: prototypes to test whether the product has value to users).
