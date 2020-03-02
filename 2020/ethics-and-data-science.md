@@ -1,4 +1,4 @@
-*Date read - XX 2020*
+*Date read - March 2020*
 
 -----
 
@@ -7,6 +7,7 @@
 **On why are we now seeing an explosion of interest in data ethics** — "Because data has been integrated into every aspect of our life: the friends and business connections we’re asked to make, the shopping circulars we receive in the mail, the news we see, and the songs we’ve played. Data is collected from us at every turn: every trace of our online presence, and sometimes even traces of our physical presence. We’ve gained some advantages from data, but we’ve also seen the damage that the misuse of data has caused." (Preface)
 
 **On what has been missing** (Preface) — "An understanding for how to put ethics into practice in data as well as the overall product development process. *Ethics really isn’t about agreeing to a set of principles. It’s about changing the way you act.* 
+
 - Example: It'’s one thing to say that you should get permission from users before using their data in an experiment. It’s quite another thing to get permission at web scale. And it’s yet another thing to get permission in a way that explains clearly how the data will be used, and what the expected consequences are. That’s what we need to explore. 
 - Important note: We should realize that ethics isn’t about a fixed list of do’s and don’ts. It’s primarily about having a discussion about how what you’re doing will affect other people, and whether those effects are acceptable. 
 - The purpose of this book: Putting ethics into practice, e.g. what does it mean for hiring, how do you teach ethics in an academic setting, etc.
@@ -122,7 +123,55 @@ Users lose trust because ...
 
 ### Implementing the Five Cs
 
-In addition to designers (assumed responsibility), it’s the responsibility of the entire team. The five Cs need to be part of every organization’s culture.
-- The data scientists need to approach the problem asking “what if” scenarios that get to all of the five C’s. 
-- Also true for the product managers, business leaders, sales, marketing, and also executives. 
-- Product and design reviews should go over the five Cs regularly. They should consider developing a checklist before releasing a product to the public. All too often, we think of data products as minimal viable products (MVPs: prototypes to test whether the product has value to users).
+It’s the responsibility of the entire team. The five Cs' "what if" scenarios need to be part of every organization’s culture.
+
+- Who: Designers, data scientists, product managers, business leaders, sales, marketing, and also executives. 
+- In practice: Product and design reviews should go over the five Cs regularly. They should consider developing a checklist before releasing a product to the public. All too often, we think of data products as minimal viable products (MVPs: prototypes to test whether the product has value to users).
+
+### Ethics and Security Training
+
+> Ethical training for AI practitioners and students is a necessary part of the solution. Ideally, every student learning AI, computer science, or data science would be exposed to curriculum and discussion on related ethics and security topics. However, ethics alone is not sufficient. Ethics can help practitioners understand their responsibilities to all stakeholders, but ethical training should be augmented with technical tools and methods for putting good intentions into practice by doing the technical work needed to prevent unacceptable outcomes.
+
+— [*Preparing for the Future of Artificial Intelligence*](https://obamawhitehouse.archives.gov/sites/default/files/whitehouse_files/microsites/ostp/NSTC/preparing_for_the_future_of_ai.pdf) by the Executive Office of the President National Science and Technology Council Committee on Technology
+
+At the heart of the curriculum/training, whether colleges, universities, online courses, bootcamps, etc. => Ethics and security. Integrated and cannot remain abstract but to be coupled with “technical tools and methods for putting good intentions into practice.”
+
+### Developing Guiding Principles
+
+> The problem with ethical principles is that it’s easy to forget about them when you’re rushing: when you’re trying to get a project finished on a tight, perhaps unrealistic, schedule.
+
+A great solution: Checklist as a tool to not forget ethical issues, even when they are under pressure to deliver.
+
+An example of guiding principles: [fatml: Principles for Accountable Algorithms](https://www.fatml.org/resources/principles-for-accountable-algorithms)
+
+### Building Ethics into a Data-Driven Culture
+
+Individual responsibility isn’t sufficient. Ethics needs to be part of an organization’s culture. Ideas for building ethics into culture:
+- An individual needs to be empowered to stop the process before damage is done
+- Anyone should be able to escalate issues for remediation without fear of retaliation (Note: Kindle readers highlight this 50+ times)
+- An ethical challenge should be part of the hiring process
+- Product reviews must ask questions about the product’s impact
+- Teams must reflect diversity of thought, experiences, race, and background
+- Corporations must make their own principles clear
+
+### Regulation
+
+> One challenge of developing a policy framework is that the policy development process nearly always lags the pace of innovation, and isn’t agile enough to keep policy iterative. By the time a policy has been formulated and approved, it almost always lags behind technology; but it’s impossible for policy makers to iterate quickly enough to catch up with the newest technology. Another problem is that the committees that make policy often lack experts with the necessary technical background. That can be good; technologists are too easily influenced by “what technology wants.” But policies created by people who are technologically uninformed are frequently out of touch with reality: look at the debate over back doors to [encryption protocols](https://www.infosecurity-magazine.com/news/cryptoexperts-slam-fbis-backdoor/).
+
+### Building Our Future
+
+A way to keep shaping our future is continually talk about ethics, have difficult conversations as an individual and collective.
+
+## Chapter 5: Case Studies
+
+Case studies to read — [Princeton Dialogues on AI and Ethics Case Studies](https://aiethics.princeton.edu/case-studies/)
+
+1. **Automated Healthcare App** discusses a smartphone app designed to help adult onset diabetes patients. It raises issues like paternalism, consent, and even language choices.
+2. **Dynamic Sound Identification** covers an application that can identify voices, raising issues about privacy, language, and even gender. How far should developers go in identifying potential harm that can be caused by an application?
+3. **Optimizing Schools** deals with the problem of finding at-risk children in school systems. Privacy and language are again an issue; it also raises the issue of how decisions to use data are made. Who makes those decisions, and who needs to be informed about them?
+4. **Law Enforcement Chatbots** raises issues about the trade-off between liberty and security, entrapment, openness and accountability, and compliance with international law.
+
+When reading these cases:
+
+- Where is the boundary between what is, and isn’t, acceptable? 
+- What’s important isn’t getting to the correct answer on any issue, but to make sure the issue is discussed and understood, and that we know what trade-offs we are making?
