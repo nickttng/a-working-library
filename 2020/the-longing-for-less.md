@@ -16,7 +16,7 @@ On material accumulation as a form of security (from the 20th century mindset) t
 
 On the author's purpose of writing *The Longing for Less*
 
-> ... to figure out the origins of the thought that less could be better than more—in possessions, in aesthetics, in sensory perception, and in the philosophy with which we approach our lives ... to uncover a minimalism of ideas rather than things, not obese over possessions or the lack thereof but challenge our day-to-day experience of being in the world (13-14)
+> ... to figure out the origins of the thought that less could be better than more—in possessions, in aesthetics, in sensory perception, and in the philosophy with which we approach our lives ... to uncover a minimalism of ideas rather than things, not obsess over possessions or the lack thereof but challenge our day-to-day experience of being in the world (13-14)
 
 On why it is difficult to make sense of minimalism
 
